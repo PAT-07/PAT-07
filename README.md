@@ -69,10 +69,6 @@ pratyaksh = {
   <img src="https://streak-stats.demolab.com?user=PAT-07&theme=github-dark-blue&hide_border=true" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PAT-07&theme=darkhub&no-frame=true&column=4&margin-w=10" />
-</div>
-
 ---
 
 <div align="center">
