@@ -1,7 +1,14 @@
-<h1 align="center">Hey there, I'm Pratyaksh 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=160&section=header&text=Pratyaksh%20Santosh%20Singh&fontSize=32&fontColor=e6edf3&fontAlignY=55&desc=CS%20%40%20UTD%20%C2%B7%20Python%20%C2%B7%20AWS%20%C2%B7%20AI%2FML&descAlignY=75&descSize=14" width="100%" />
+</p>
 
 <p align="center">
-  <em>CS Student @ UTD · Python & Cloud Enthusiast · Building AI-powered things</em>
+  <!-- After uploading your photo via GitHub Issues, uncomment and replace the URL below -->
+  <!-- <img src="YOUR_PHOTO_URL" width="120" style="border-radius:50%" /> -->
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=500&lines=CS+Student+%40+UTD;Python+%7C+AWS+%7C+AI%2FML;Building+cloud-native+apps;Open+to+internships+%26+collabs" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -67,5 +74,5 @@ pratyaksh = {
 ---
 
 <p align="center">
-  <em>"First, solve the problem. Then, write the code." — John Johnson</em>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=80&section=footer" width="100%" />
 </p>
