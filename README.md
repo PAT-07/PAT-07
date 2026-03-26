@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=160&section=header&text=Pratyaksh%20Santosh%20Singh&fontSize=32&fontColor=e6edf3&fontAlignY=55&desc=CS%20%40%20UTD%20%C2%B7%20Python%20%C2%B7%20AWS%20%C2%B7%20AI%2FML&descAlignY=75&descSize=14" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=160&section=header&text=Pratyaksh%20Santosh%20Singh&fontSize=32&fontColor=e6edf3&fontAlignY=55&desc=IT%26M%20%40%20UTD%20%C2%B7%20Python%20%C2%B7%20AWS%20%C2%B7%20AI%2FML&descAlignY=75&descSize=14" width="100%" />
 </p>
 
 <p align="center">
-  <!-- After uploading your photo via GitHub Issues, uncomment and replace the URL below -->
+  
   <!-- <img src="YOUR_PHOTO_URL" width="120" style="border-radius:50%" /> -->
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=500&lines=CS+Student+%40+UTD;Python+%7C+AWS+%7C+AI%2FML;Building+cloud-native+apps;Open+to+internships+%26+collabs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=500&lines=IT%26M+Student+%40+UTD;Python+%7C+AWS+%7C+AI%2FML;Building+cloud-native+apps;Open+to+internships+%26+collabs" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -24,8 +24,8 @@
 
 ```python
 pratyaksh = {
-    "school":    "University of Texas at Dallas",
-    "focus":     ["Cloud Computing", "AI/ML", "Full-Stack Dev"],
+    "school":    "University of Texas at Dallas (IT&M)",
+    "focus":     ["Cloud Computing", "AI/ML", "IT Systems & Management"],
     "currently": "Building cloud-native apps & AI assistants",
     "open_to":   "Internships · Collabs · Open Source"
 }
