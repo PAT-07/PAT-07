@@ -36,10 +36,11 @@ pratyaksh = {
 
 | Project | Description | Stack |
 |--------|-------------|-------|
+| [**penny-app**](https://github.com/PAT-07/penny-app) | AI-powered investment companion with portfolio analysis & Claude AI | React · FastAPI · Python |
 | [**utd-campus-assistant**](https://github.com/PAT-07/utd-campus-assistant) | AI-powered campus Q&A bot for dining, events & parking | AWS Bedrock · Lambda · API Gateway |
 | [**cloud-it-service-dashboard**](https://github.com/PAT-07/cloud-it-service-dashboard) | Cloud-based IT Service Request Dashboard | JavaScript · CSS |
 | [**Slot-Machine**](https://github.com/PAT-07/Slot-Machine) | Interactive slot game with real-time betting & animations | Python · Streamlit |
-| [**Car_Animation_Project**](https://github.com/PAT-07/Car_Animation_Project) | Smooth Tkinter animation for EuropCar rental scenarios | Python · Tkinter |
+
 
 ---
 
